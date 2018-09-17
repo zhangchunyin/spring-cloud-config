@@ -1,0 +1,5 @@
+spring:
+  rabbit:
+    hostname: localhost
+    username: guest
+    password: guest
