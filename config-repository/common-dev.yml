@@ -1,5 +1,5 @@
 spring:
   rabbit:
-    hostname: localhost
-    username: guest
-    password: guest
+    hostname: localhost-dev
+    username: guest-dev
+    password: guest-dev

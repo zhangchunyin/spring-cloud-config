@@ -1,9 +1,9 @@
 xx:
   test:
-    hehe: normal
-    txtarray: 1,2,3,a
+    hehe: normaldev
+    txtarray: 1,2,3,a,dev
     listmap:
-      - host: zxj
+      - host: zxjdev
         port: 10
         active: 9
       - host: ly
